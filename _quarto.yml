@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: _site
+
+pagetitle: "surveydown"
+title: "surveydown:<br>An Open-Source, Markdown-Based Platform for Interactive and Reproducible Surveys"
+author: "Pingfan Hu, Bogdan Bunea, John Paul Helveston"
+format:
+  revealjs: 
+    smaller: false
+    theme: styles/theme.scss
+    css: styles/slides.css
+    slide-number: true
+    embed-resources: true
+    auto-stretch: false
+    preview-links: auto
+    link-external-newwindow: true
+    link-external-icon: false
+    center-title-slide: false
+    code-block-height: 650px
+    title-slide-attributes: 
+      data-background-image: figs/logo.png
+      data-background-size: 20%
+      data-background-opacity: "1"
+      class: custom-title-slide
+
+execute: 
+  warning: false
+  echo: false
