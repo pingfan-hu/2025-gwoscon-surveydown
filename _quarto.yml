@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: _site
 
-pagetitle: "surveydown"
+pagetitle: "surveydown GW OSCON"
 title: "surveydown:<br>An Open-Source, Markdown-Based Platform for Interactive and Reproducible Surveys"
 author: "Pingfan Hu, Bogdan Bunea, John Paul Helveston"
 format:
