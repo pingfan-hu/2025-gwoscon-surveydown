@@ -11,7 +11,7 @@ format:
     theme: styles/theme.scss
     css: styles/slides.css
     slide-number: true
-    embed-resources: true
+    embed-resources: false
     auto-stretch: false
     preview-links: auto
     link-external-newwindow: true
