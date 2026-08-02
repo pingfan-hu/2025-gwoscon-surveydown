@@ -6,9 +6,8 @@ pagetitle: "surveydown GW OSCON"
 title: "surveydown:<br>An Open-Source, Markdown-Based Platform for Interactive and Reproducible Surveys"
 author: "Pingfan Hu, Bogdan Bunea, John Paul Helveston"
 format:
-  revealjs: 
+  touhou-revealjs:
     smaller: false
-    theme: styles/theme.scss
     css: styles/slides.css
     slide-number: true
     embed-resources: false

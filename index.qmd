@@ -4,7 +4,7 @@
 source("codes.R")
 ```
 
-## {background-color="#FFFFFF"}
+## {background-color="#FFFFFF" .light-centered .center}
 
 <br>
 
@@ -15,7 +15,7 @@ source("codes.R")
 <img src="figs/google-form.gif" width=700>
 </center>
 
-## {background-color="#FFFFFF"}
+## {background-color="#FFFFFF" .light-centered .center}
 
 <br>
 
@@ -75,13 +75,13 @@ source("codes.R")
 
 :::
 
-## Introducing `surveydown` {style="text-align: center"}
+## Introducing `surveydown` {style="text-align: center" .light-centered .center}
 
 <br>
 
 ![](figs/technologies.svg){fig-align="center" width="90%"}
 
-## Components {style="text-align: center;"}
+## Components {style="text-align: center;" .light-centered .center}
 
 ::: columns
 
@@ -106,7 +106,7 @@ An **R script** defining the survey Shiny app. It sets up the database and serve
 
 :::
 
-## {style="font-size: 0.6em;"}
+## {style="font-size: 0.6em;" .light-centered .center}
 
 ::: columns
 
@@ -132,7 +132,7 @@ surveycode()
 
 :::
 
-## {style="font-size: 0.6em;"}
+## {style="font-size: 0.6em;" .light-centered .center}
 
 ::: columns
 
@@ -170,7 +170,7 @@ Load Package
 
 :::
 
-## {style="font-size: 0.6em;"}
+## {style="font-size: 0.6em;" .light-centered .center}
 
 ::: columns
 
@@ -210,7 +210,7 @@ Page 2 (End)
 
 :::
 
-## {style="font-size: 0.6em;"}
+## {style="font-size: 0.6em;" .light-centered .center}
 
 ::: columns
 
@@ -243,7 +243,7 @@ Contents of Page 1
 
 :::
 
-## {style="font-size: 0.6em;"}
+## {style="font-size: 0.6em;" .light-centered .center}
 
 ::: columns
 
@@ -275,7 +275,7 @@ Question Definition
 
 :::
 
-## {.smaller}
+## {.smaller .light-centered .center}
 
 ::: columns
 
@@ -301,7 +301,7 @@ appcode()
 
 :::
 
-## {.smaller}
+## {.smaller .light-centered .center}
 
 ::: columns
 
@@ -333,7 +333,7 @@ Load Package
 
 :::
 
-## {.smaller}
+## {.smaller .light-centered .center}
 
 ::: columns
 
@@ -370,7 +370,7 @@ We recommend using **Supabase** or any **PostgreSQL** database for the database 
 
 :::
 
-## {.smaller}
+## {.smaller .light-centered .center}
 
 ::: columns
 
@@ -401,7 +401,7 @@ Server Setup
 
 :::
 
-## {.smaller}
+## {.smaller .light-centered .center}
 
 ::: columns
 
@@ -432,13 +432,13 @@ Launch Survey
 
 :::
 
-## Locally running the survey {style="text-align: center;"}
+## Locally running the survey {style="text-align: center;" .light-centered .center}
 
 ![](videos/local_run.mp4){style="border: 2px solid #5654A2;"}
 
 Data saved locally in csv for previewing purposes.
 
-## Online Deployment {style="font-size: 32px; text-align: center;"}
+## Online Deployment {style="font-size: 32px; text-align: center;" .light-centered .center}
 
 ::: columns
 ::: {.column width="48%"}
@@ -487,13 +487,13 @@ Data saved locally in csv for previewing purposes.
 Online Data Storage + Online Survey URL
 :::
 
-## Local Dashboard App {style="text-align: center;"}
+## Local Dashboard App {style="text-align: center;" .light-centered .center}
 
 ![](videos/dashboard.mp4){style="border: 2px solid #5654A2;"}
 
-## [Templates and demos are provided on [**`surveydown.org`**](https://surveydown.org) for an easy start.]{style="text-align: center; display: block;"} {.center}
+## [Templates and demos are provided on [**`surveydown.org`**](https://surveydown.org) for an easy start.]{style="text-align: center; display: block;"} {.light-centered .center}
 
-## Summary of Features {style="text-align: center;"}
+## Summary of Features {style="text-align: center;" .light-centered .center}
 
 <br>
 
@@ -524,11 +524,11 @@ Custom interactive questions
 :::
 :::
 
-## Example of custom interactive question {style="text-align: center;"}
+## Example of custom interactive question {style="text-align: center;" .light-centered .center}
 
 [![](figs/demo_2.png){width="80%" fig-align="center" style="border: 2px solid #5654A2;"}](https://surveydown2.shinyapps.io/leaflet/)
 
-## Map Question Showcase {style="text-align: center;"}
+## Map Question Showcase {style="text-align: center;" .light-centered .center}
 
 ::: {style="width: 600px; margin: 0 auto;"}
 ![](videos/map.mp4){style="border: 2px solid #5654A2;"}
@@ -538,7 +538,7 @@ Source: Dr. Selena Hinojos, GWU
 :::
 :::
 
-## Future Work {style="text-align: center;"}
+## Future Work {style="text-align: center;" .light-centered .center}
 
 <br>
 
@@ -560,4 +560,4 @@ More question types
 
 :::
 
-## [Check out [**`surveydown.org`**](https://surveydown.org) for more!]{style="text-align: center; display: block;"} {.center}
+## [Check out [**`surveydown.org`**](https://surveydown.org) for more!]{style="text-align: center; display: block;"} {.light-centered .center}
