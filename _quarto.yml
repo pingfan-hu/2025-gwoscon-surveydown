@@ -1,10 +1,12 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - figs/
 
 pagetitle: "surveydown GW OSCON"
-title: "surveydown:<br>An Open-Source, Markdown-Based Platform for Interactive and Reproducible Surveys"
-author: "Pingfan Hu, Bogdan Bunea, John Paul Helveston"
+title: "`surveydown`<br><span style='font-size: 0.7em;'>An Open-Source, Markdown-Based Platform<br>for Interactive and Reproducible Surveys</span>"
+author: "<br>Pingfan Hu, Bogdan Bunea, John Paul Helveston<br>George Washington University<br><br>GW OSCON 2025"
 format:
   touhou-revealjs:
     smaller: false
@@ -12,16 +14,15 @@ format:
     slide-number: true
     embed-resources: false
     auto-stretch: false
+    footer: "<a href='http://pingfanhu.com'>Pingfan Hu</a> - <a href='https://ospo.gwu.edu/oscon-2025'>GW OSCON 2025</a>"
     preview-links: auto
     link-external-newwindow: true
     link-external-icon: false
-    center-title-slide: false
+    center-title-slide: true
     code-block-height: 650px
-    title-slide-attributes: 
-      data-background-image: figs/logo.png
-      data-background-size: 20%
-      data-background-opacity: "1"
+    title-slide-attributes:
       class: custom-title-slide
+      style: "text-align:left; background-image: url(figs/logo.png);"
 
 execute: 
   warning: false

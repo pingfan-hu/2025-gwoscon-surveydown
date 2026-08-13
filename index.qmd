@@ -37,38 +37,32 @@ source("codes.R")
 
 ::: {.column width="50%"}
 
-::: {.centered .fragment}
+::: {style="text-align: left; display: flex; flex-direction: column; justify-content: center; gap: 0.6em; height: 100%;"}
+
+::: {.fragment}
 ### ❌ Reproducible
 :::
 
-<br>
-
-::: {.centered .fragment}
+::: {.fragment}
 ### ❌ Data Control
 :::
 
-<br>
-
-::: {.centered .fragment}
+::: {.fragment}
 ### ⚠️ Free to Use
 :::
 
-<br>
-
-::: {.centered .fragment}
+::: {.fragment}
 ### ⚠️ Open Source
 :::
 
-<br>
-
-::: {.centered .fragment}
+::: {.fragment}
 ### ⚠️ Easy Collaboration
 :::
 
-<br>
-
-::: {.centered .fragment}
+::: {.fragment}
 ### ⚠️ Feature Packed
+:::
+
 :::
 
 :::
@@ -106,7 +100,7 @@ An **R script** defining the survey Shiny app. It sets up the database and serve
 
 :::
 
-## {style="font-size: 0.6em;" .light-centered .center}
+## {style="font-size: 0.6em;"}
 
 ::: columns
 
@@ -132,7 +126,7 @@ surveycode()
 
 :::
 
-## {style="font-size: 0.6em;" .light-centered .center}
+## {style="font-size: 0.6em;"}
 
 ::: columns
 
@@ -170,7 +164,7 @@ Load Package
 
 :::
 
-## {style="font-size: 0.6em;" .light-centered .center}
+## {style="font-size: 0.6em;"}
 
 ::: columns
 
@@ -210,7 +204,7 @@ Page 2 (End)
 
 :::
 
-## {style="font-size: 0.6em;" .light-centered .center}
+## {style="font-size: 0.6em;"}
 
 ::: columns
 
@@ -243,7 +237,7 @@ Contents of Page 1
 
 :::
 
-## {style="font-size: 0.6em;" .light-centered .center}
+## {style="font-size: 0.6em;"}
 
 ::: columns
 
@@ -275,7 +269,7 @@ Question Definition
 
 :::
 
-## {.smaller .light-centered .center}
+## {.smaller}
 
 ::: columns
 
@@ -301,7 +295,7 @@ appcode()
 
 :::
 
-## {.smaller .light-centered .center}
+## {.smaller}
 
 ::: columns
 
@@ -333,7 +327,7 @@ Load Package
 
 :::
 
-## {.smaller .light-centered .center}
+## {.smaller}
 
 ::: columns
 
@@ -370,7 +364,7 @@ We recommend using **Supabase** or any **PostgreSQL** database for the database 
 
 :::
 
-## {.smaller .light-centered .center}
+## {.smaller}
 
 ::: columns
 
@@ -401,7 +395,7 @@ Server Setup
 
 :::
 
-## {.smaller .light-centered .center}
+## {.smaller}
 
 ::: columns
 
