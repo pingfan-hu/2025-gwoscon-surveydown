@@ -83,7 +83,7 @@ source("codes.R")
 
 ### `survey.qmd` {style="text-align: center; font-size: 36px; color: #739C69; padding-top: 3em;"}
 
-A **Quarto doc** defining the main survey content (pages, text, images, questions, etc).
+A **Quarto doc** defining the main survey content (pages, text, images, questions, etc.).
 
 :::
 
@@ -430,7 +430,7 @@ Launch Survey
 
 ![](videos/local_run.mp4){style="border: 2px solid #5654A2;"}
 
-Data saved locally in csv for previewing purposes.
+Data saved locally in CSV for previewing purposes.
 
 ## Online Deployment {style="font-size: 32px; text-align: center;" .light-centered .center}
 
@@ -510,7 +510,7 @@ URL parameters for redirection
 :::
 
 ::: {.centered-orange .container style="width: 600px;"}
-Ability to start from selected page
+Ability to start from a selected page
 :::
 
 ::: {.centered-orange .container style="width: 600px;"}
@@ -518,7 +518,7 @@ Custom interactive questions
 :::
 :::
 
-## Example of custom interactive question {style="text-align: center;" .light-centered .center}
+## Example of a custom interactive question {style="text-align: center;" .light-centered .center}
 
 [![](figs/demo_2.png){width="80%" fig-align="center" style="border: 2px solid #5654A2;"}](https://surveydown2.shinyapps.io/leaflet/)
 
