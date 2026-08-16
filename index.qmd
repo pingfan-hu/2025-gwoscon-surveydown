@@ -179,14 +179,14 @@ Load Package
 ```{r}
 #| results: 'asis'
 
-surveycode("11,30,32,40")
+surveycode("11,30")
 ```
 
 :::
 
 ::: {.column width="40%"}
 
-Define pages using "fences":<br><br>`::: {#id .sd-page}`<br>`:::`
+Define pages using triple-dash markers:<br><br>`--- page_id`
 
 ::: {.surveyqmd-texts style="display: block; transform: none; top: 24%;"}
 

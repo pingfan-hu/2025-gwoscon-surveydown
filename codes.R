@@ -31,7 +31,7 @@ warning: false
 library(surveydown)
 ```
 
-::: {#welcome .sd-page}
+--- welcome
 
 # Welcome to our survey!
 
@@ -50,17 +50,13 @@ sd_question(
 sd_next()
 ```
 
-:::
-
-::: {#end .sd-page}
+--- end
 
 This is the last page of the survey.
 
 ```{r}
 sd_close()
-```
-
-:::'
+```'
 
   cat(fence_start(highlights))
   cat(survey_text)
