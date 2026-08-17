@@ -14,7 +14,7 @@ format:
     slide-number: true
     embed-resources: false
     auto-stretch: false
-    footer: "<a href='http://pingfanhu.com'>Pingfan Hu</a> - <a href='https://ospo.gwu.edu/oscon-2025'>GW OSCON 2025</a>"
+    footer: "<a href='https://pingfan.org'>Pingfan Hu</a> - <a href='https://ospo.gwu.edu/oscon-2025'>GW OSCON 2025</a>"
     preview-links: auto
     link-external-newwindow: true
     link-external-icon: false
